@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "chapter": "Chapter One",
+      "details": "Item one details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Two",
+      "details": "Item two details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Three",
+      "details": "Item three details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Four",
+      "details": "Item four details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Five",
+      "details": "Item five details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Six",
+      "details": "Item six details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Seven",
+      "details": "Item seven details",
+      "image": "@sample/images"
+    },
+    {
+      "chapter": "Chapter Eight",
+      "details": "Item eight details",
+      "image": "@sample/images"
+    }
+  ]
+}
